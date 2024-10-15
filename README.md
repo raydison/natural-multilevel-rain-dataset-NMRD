@@ -3,7 +3,7 @@ This dataset contains images from real rainfall. The images are obtained from re
 The folders contain images collected under different rainfall levels. We will further collect rainfall images and update them in the corresponding folder in the future.
 
 Sunny picture
-![image text](https://github.com/raydison/natural-multilevel-rain-dataset-NMRD/blob/main/no_rain/00001.jpg "no rain picture")![image text](https://github.com/raydison/natural-multilevel-rain-dataset-NMRD/blob/main/light/00001.jpg "light rain picture")
+![image text](https://github.com/raydison/natural-multilevel-rain-dataset-NMRD/blob/main/no_rain/00001.jpg "no rain picture")
 Light rain picture
 ![image text](https://github.com/raydison/natural-multilevel-rain-dataset-NMRD/blob/main/light/00001.jpg "light rain picture")
 Medium picture
